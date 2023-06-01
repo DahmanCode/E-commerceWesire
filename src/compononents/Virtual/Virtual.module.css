@@ -31,3 +31,13 @@
   font-size: 1.6rem;
   font-weight: bold;
 }
+
+.left > img {
+  position: absolute;
+  width: 10rem;
+  bottom: 3rem;
+}
+
+.wrapper {
+  width: 30rem;
+}
