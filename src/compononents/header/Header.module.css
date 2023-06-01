@@ -33,9 +33,13 @@
   list-style: none;
 }
 
+.menu > li {
+  cursor: pointer;
+  transition: all .3s;
+}
+
 .menu > li:hover {
   color: #fe956f;
-  cursor: pointer;
 }
 
 .search {
