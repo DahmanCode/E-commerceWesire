@@ -5,6 +5,7 @@ import Header from "./compononents/header/Header";
 import Virtual from "./compononents/Virtual/Virtual";
 import Products from "./compononents/Products/Products";
 import Testimonials from "./compononents/Testimonials/Testimonials";
+import Footer from "./compononents/Footer/Footer";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Virtual />
       <Products />
       <Testimonials />
+      <Footer />
     </div>
   );
 }
