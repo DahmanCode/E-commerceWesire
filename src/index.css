@@ -2,7 +2,6 @@
 
 body {
   margin: 0;
-  /* font-family: 'Fondamento', cursive; */
   font-family: 'Gentium Plus', serif;
   background-color: var(--bg);
   transition: all .3s ease;
