@@ -13,12 +13,12 @@ import {
 function Footer() {
   return (
     <div className={css.cFooterWrapper}>
-      <hr/>
+      <hr />
 
       <div className={css.cFooter}>
         <div className={css.logo}>
           <img src={Logo} alt="" />
-          <span>amazon</span>
+          <span>skinPro</span>
         </div>
 
         <div className={css.block}>
@@ -32,14 +32,13 @@ function Footer() {
 
             <span className={css.pngLine}>
               <PhoneIcon className={css.icon} />
-              <a href='tel:352-528-4235'>352-528-4235</a>
+              <a href="tel:352-528-4235">352-528-4235</a>
             </span>
 
             <span className={css.pngLine}>
               <InboxIcon className={css.icon} />
-              <a href='mailto:support@amazon.com'>support@amazon.com</a>
+              <a href="mailto:support@skinPro.com">support@skinPro.com</a>
             </span>
-
           </div>
         </div>
 
@@ -58,7 +57,7 @@ function Footer() {
             <span>Company</span>
             <span className={css.pngLine}>
               <UsersIcon className={css.icon} />
-              <a href='/about'>
+              <a href="/about">
                 <p>About us</p>
               </a>
             </span>
@@ -70,19 +69,18 @@ function Footer() {
             <span>Resources</span>
             <span className={css.pngLine}>
               <LinkIcon className={css.icon} />
-              <a href='/about'>
+              <a href="/about">
                 <p>Safety Privacy & Terms</p>
               </a>
             </span>
           </div>
         </div>
-
       </div>
 
       <div className={css.copyRight}>
         <span>
-          Copyright © 2023 by 
-          <a href="https://dahmancode.github.io/Portfolio/"> DahmanCode.</a>  
+          Copyright © 2023 by
+          <a href="https://dahmancode.github.io/Portfolio/"> DahmanCode.</a>
         </span>
         <span>All rights reserved.</span>
       </div>
