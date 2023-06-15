@@ -79,7 +79,7 @@ function Footer() {
 
       <div className={css.copyRight}>
         <span>
-          Copyright © 2023 by
+          Copyright © 2023 | Devloped by
           <a href="https://dahmancode.github.io/Portfolio/"> DahmanCode.</a>
         </span>
         <span>All rights reserved.</span>
