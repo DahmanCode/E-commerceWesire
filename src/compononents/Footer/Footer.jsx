@@ -82,7 +82,6 @@ function Footer() {
           Copyright © 2023 | Devloped by
           <a href="https://dahmancode.github.io/Portfolio/"> DahmanCode.</a>
         </span>
-        <span>All rights reserved.</span>
       </div>
     </div>
   )
